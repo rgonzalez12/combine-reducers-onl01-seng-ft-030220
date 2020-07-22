@@ -30,8 +30,8 @@ We want our app to do two things:
 
 Our app will need a state object that stores two types of information:
 
-1. All our books, in an array
-2. Our authors, also in an array
+1. All our books, in an array.
+2. Our authors, also in an array.
 
 Each of these types of information--all our books, and the authors--should be
 represented on our store's state object. We want to think of our store's state
